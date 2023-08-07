@@ -93,10 +93,19 @@ input[type="submit"]:active {
   background-color: gray;
 }
 
-form h4 {
+form h4{
   width: 100%;
   padding: 0.25rem;
   margin: 0.5rem 0;
   color: white;
   background-color: black;
+}
+
+form button {
+  width: 100%;
+  padding: 0.25rem;
+  margin: 0.5rem 0;
+  color: white;
+  background-color: black;
+  font-size:15px;
 }
